@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0", 
-  "title": "Bakapatch Blossom 2.0",
-  "subtitle": "2.0.0 – 0.0 GB",
+  "version": "2.0.1", 
+  "title": "Bakapatch Blossom 2.0.1",
+  "subtitle": "2.0.1 – 0.0 GB",
   "link": "https://github.com/VibeCoderClone/bakapatch/releases",
   "paragraphs": [
     { "text": 'This update adds a new appearance option along with other features, bug fixes, and security updates for your Bakapatch.' },
