@@ -1,1 +1,10 @@
-2.0.0
+{
+  "version": "2.0.0", 
+  "title": "Bakapatch Blossom 2.0",
+  "subtitle": "2.0.0 – 0.0 GB",
+  "link": "https://github.com/VibeCoderClone/bakapatch/releases",
+  paragraphs: [
+    { text: 'This update adds a new appearance option along with other features, bug fixes, and security updates for your Bakapatch.' },
+    { text: 'For information on the security content of Baka software updates, please visit:', link: { label: 'https://github.com/VibeCoderClone/bakapatch/issues?q=is%3Aissue%20state%3Aclosed', href: 'https://github.com/VibeCoderClone/bakapatch/issues?q=is%3Aissue%20state%3Aclosed', block: true } },
+  ]
+}
