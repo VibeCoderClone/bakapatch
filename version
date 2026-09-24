@@ -1,10 +1,12 @@
 {
-  "version": "2.0.1", 
-  "title": "Bakapatch Blossom 2.0.1",
-  "subtitle": "2.0.1 – 0.0 GB",
+  "version": "2.0.2", 
+  "icon": '🌸'
+  "iconColor": "linear-gradient(180deg, #ffd6ec, #ffb3dd)"
+  "title": "Bakapatch Blossom 2.0.2",
+  "subtitle": "2.0.2 – 0.0 GB",
   "link": "https://github.com/VibeCoderClone/bakapatch/releases",
   "paragraphs": [
-    { "text": 'This update adds a new appearance option along with other features, bug fixes, and security updates for your Bakapatch.' },
-    { "text": 'For information on the security content of Baka software updates, please visit:', "link": { "label": 'https://github.com/VibeCoderClone/bakapatch/issues?q=is%3Aissue%20state%3Aclosed', "href": 'https://github.com/VibeCoderClone/bakapatch/issues?q=is%3Aissue%20state%3Aclosed', "block": true } },
+    { "text": 'This update adds new interactive elements, bug fixes for your Bakapatch.' },
+    { "text": 'For information on the new interactive elements, bug fixes of Bakapatch software updates, please visit:', "link": { "label": 'https://github.com/VibeCoderClone/bakapatch/issues?q=is%3Aissue%20state%3Aclosed', "href": 'https://github.com/VibeCoderClone/bakapatch/issues?q=is%3Aissue%20state%3Aclosed', "block": true } },
   ]
 }
