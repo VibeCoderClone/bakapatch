@@ -1,0 +1,17 @@
+{
+  "lang": "es",
+  "version": 1,
+  "strings": {
+    "tab.general": "General",
+    "tab.appearance": "Apariencia",
+    "tab.accessibility": "Accesibilidad",
+    "tab.debugger": "Depurador",
+    "general.about": "Acerca de",
+    "general.software_update": "Actualización de software",
+    "general.language": "Idioma",
+    "language.page_title": "Idioma",
+    "language.section_title": "Idiomas preferidos",
+    "language.add": "Añadir un idioma preferido",
+    "language.remove": "Quitar idioma seleccionado"
+  }
+}
