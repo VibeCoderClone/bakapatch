@@ -42,7 +42,7 @@ Please include:
 
 ## License
 
-See the [LICENSE](https://github.com/VibeCoderClone/bakapatch/LICENSE) file for details.
+See the [LICENSE](https://github.com/VibeCoderClone/bakapatch/blob/main/LICENSE) file for details.
 
 ---
 
