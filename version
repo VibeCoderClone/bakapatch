@@ -7,5 +7,6 @@
   "link": "https://github.com/VibeCoderClone/bakapatch/releases",
   "paragraphs": [
     { "text": 'This update adds new features and bug fixes for your Bakapatch.' },
+    { "text": 'For information on the new features, bug fixes of Bakapatch software updates, please visit:', "link": { "label": 'https://github.com/VibeCoderClone/bakapatch/issues?q=is%3Aissue%20state%3Aclosed', "href": 'https://github.com/VibeCoderClone/bakapatch/issues?q=is%3Aissue%20state%3Aclosed', "block": true } },
   ]
 }
