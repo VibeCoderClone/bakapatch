@@ -54,8 +54,6 @@
     "accessibility.section.motion": "Motion",
     "accessibility.section.zoom": "Zoom",
     "accessibility.reduce_motion": "Reduce motion",
-    "accessibility.reduce_motion_note": "Turns off window animations and transitions across these settings. It starts out matching your system setting.",
-    "accessibility.interface_scale": "Interface scale",
-    "accessibility.interface_scale_note": "Scales the whole window, chrome and all, up to 2× its normal size."
+    "accessibility.interface_scale": "Interface scale"
   }
 }
